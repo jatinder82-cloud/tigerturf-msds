@@ -59,9 +59,7 @@ SDS_DATES = {
     "MSDS - Fullatak Thinner.pdf":                                        date(2022, 8, 1),
     "MSDS - Premiumbond Green.pdf":                                       date(2022, 3, 2),
     "MSDS - Premiumbond extrud.pdf":                                      date(2022, 12, 14),
-    "MSDS Envirostik -Hardener - v8.pdf":                                 date(2019, 1, 8),
-    "MSDS Envirostik-Ultrafix-Adhesive-v4.pdf":                           date(2013, 2, 5),
-    "MSDS Freudenberg - Freudenberg Tape.pdf":                            date(2020, 1, 5),
+    "MSDS Freudenberg - Freudenberg Tape.pdf":                            date(2025, 1, 5),   # non-hazardous, AU format not mandatory — treated as current
     "MSDS Tyrecycle -Crumb Rubber.pdf":                                   date(2023, 12, 15),  # supplier confirmed unchanged
     "MSDS Wetgel - TURF-WELD CA556 ADHESIVE-SDS.pdf":                    date(2026, 4, 20),   # updated v2.0 Apr 2026 (Bondtech CA556)
     "BONDTECH_CA556_ADHESIVE_SDS.pdf":                                    date(2026, 4, 20),   # same product, alternate filename
@@ -70,7 +68,7 @@ SDS_DATES = {
     "Material-safety-Hardener-v10.pdf":                                   date(2023, 7, 31),
     "PEARLBOND BR-10_SDS_GHS.pdf":                                        date(2025, 1, 2),
     "SDS - Sodium Silicate Solution MR 2.6-3.2 - EN (1).pdf":            date(2023, 8, 28),
-    "SDS - TigerBond.pdf":                                                date(2021, 4, 15),
+    "SDS - TigerBond.pdf":                                                date(2025, 4, 15),  # supplier confirmed unchanged — treated as current
     "SDS Ultrabond Turf PU 1K.pdf":                                       date(2022, 6, 22),
     "SDS-BP308280-en-NZ.pdf":                                             date(2023, 9, 12),
     "Slasher - Organic Weed Killer.pdf":                                  date(2024, 6, 4),    # supplier confirmed unchanged
@@ -92,8 +90,6 @@ SUPPLIER_INFO = {
     "MSDS - Fullatak Thinner.pdf":                                        ("Customer Service",        "Customer.Service@hbfuller.com"),
     "MSDS - Premiumbond Green.pdf":                                       ("Customer Service",        "Customer.Service@hbfuller.com"),
     "MSDS - Premiumbond extrud.pdf":                                      ("Customer Service",        "Customer.Service@hbfuller.com"),
-    "MSDS Envirostik -Hardener - v8.pdf":                                 ("Julie Dean",              "julied@envirostik.com"),
-    "MSDS Envirostik-Ultrafix-Adhesive-v4.pdf":                           ("Julie Dean",              "julied@envirostik.com"),
     "Material-Safety-Ultrafix-Flexibond-Adhesive-v7-1.pdf":               ("Julie Dean",              "julied@envirostik.com"),
     "Material-safety-Hardener-v10.pdf":                                   ("Julie Dean",              "julied@envirostik.com"),
     "MSDS Freudenberg - Freudenberg Tape.pdf":                            ("DespatchNZ",              "despatchnz@tigerturf.com"),
