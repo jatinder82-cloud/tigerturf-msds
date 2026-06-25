@@ -58,6 +58,7 @@ SDS_DATES = {
     "LDH78_MSDS_英繁中_2024.pdf":                                          date(2024, 2, 7),
     "MSDS - Fullatak Thinner.pdf":                                        date(2022, 8, 1),
     "MSDS - Premiumbond Green.pdf":                                       date(2022, 3, 2),
+    "PREMIUMBOND_GREEN.pdf":                                              date(2022, 3, 2),    # same version 1.1 — supplier re-sent same document
     "MSDS - Premiumbond extrud.pdf":                                      date(2022, 12, 14),
     "MSDS Freudenberg - Freudenberg Tape.pdf":                            date(2025, 1, 5),   # non-hazardous, AU format not mandatory — treated as current
     "MSDS Tyrecycle -Crumb Rubber.pdf":                                   date(2023, 12, 15),  # supplier confirmed unchanged
@@ -69,7 +70,8 @@ SDS_DATES = {
     "PEARLBOND BR-10_SDS_GHS.pdf":                                        date(2025, 1, 2),
     "SDS - Sodium Silicate Solution MR 2.6-3.2 - EN (1).pdf":            date(2023, 8, 28),
     "SDS - TigerBond.pdf":                                                date(2025, 4, 15),  # supplier confirmed unchanged — treated as current
-    "SDS Ultrabond Turf PU 1K.pdf":                                       date(2022, 6, 22),
+    "SDS Ultrabond Turf PU 1K.pdf":                                       date(2026, 5, 22),   # updated v6 May 2026
+    "ULTRABOND_TURF_PU_1_K.pdf":                                          date(2026, 5, 22),   # same product, new filename
     "SDS-BP308280-en-NZ.pdf":                                             date(2023, 9, 12),
     "Slasher - Organic Weed Killer.pdf":                                  date(2024, 6, 4),    # supplier confirmed unchanged
     "TigerBondDBE - PC Blend HAZ SDS CW 23-3870.pdf":                    date(2023, 3, 10),
@@ -89,6 +91,7 @@ SUPPLIER_INFO = {
     "Greengauge MATRIX - B Protector Instructions 2025.pdf":              ("Peter Bainbridge",        "peter@sportcrete.com.au"),
     "MSDS - Fullatak Thinner.pdf":                                        ("Customer Service",        "Customer.Service@hbfuller.com"),
     "MSDS - Premiumbond Green.pdf":                                       ("Customer Service",        "Customer.Service@hbfuller.com"),
+    "PREMIUMBOND_GREEN.pdf":                                              ("Customer Service",        "Customer.Service@hbfuller.com"),
     "MSDS - Premiumbond extrud.pdf":                                      ("Customer Service",        "Customer.Service@hbfuller.com"),
     "Material-Safety-Ultrafix-Flexibond-Adhesive-v7-1.pdf":               ("Julie Dean",              "julied@envirostik.com"),
     "Material-safety-Hardener-v10.pdf":                                   ("Julie Dean",              "julied@envirostik.com"),
@@ -103,6 +106,7 @@ SUPPLIER_INFO = {
     "SDS - TigerBond.pdf":                                                ("Manny Samano",            "msamano@bisley.biz"),
     "TigerBondDBE - PC Blend HAZ SDS CW 23-3870.pdf":                    ("Manny Samano",            "msamano@bisley.biz"),
     "SDS Ultrabond Turf PU 1K.pdf":                                       ("Mapei Australia",         "sales@mapei.com.au"),
+    "ULTRABOND_TURF_PU_1_K.pdf":                                          ("Mapei Australia",         "sales@mapei.com.au"),
     "Ultrabond Turf 2 Stars Pro Pt A.pdf":                                ("Mapei Australia",         "sales@mapei.com.au"),
     "Ultrabond Turf 2 Stars Pro Pt B.pdf":                                ("Mapei Australia",         "sales@mapei.com.au"),
     "SDS-BP308280-en-NZ.pdf":                                             ("DespatchNZ",              "despatchnz@tigerturf.com"),
